@@ -1,0 +1,73 @@
+{
+    "conteudo": [
+        {
+            "id": 1,
+            "titulo": "From Swahili to Zulu, African techies develop AI language tools",
+            "descricao": "African techies pioneer AI tools in local languages to bridge the digital divide but data scarcity, ethical concerns are challenges",
+            "imagem": "https://ddc514qh7t05d.cloudfront.net/dA/0f6290ca16a4952dac171747534209b5/1000w/80q",
+            "acesso": "https://www.context.news/ai/african-techies-develop-ai-language-tools-from-swahili-to-zulu"
+        },
+        {
+            "id": 2,
+            "titulo": "Can AI ever be smarter than humans?",
+            "descricao": "Artificial general intelligence (AGI) - the benefits, the risks to security and jobs, and is it even possible?",
+            "imagem": "https://ddc514qh7t05d.cloudfront.net/dA/c261780ce79adef5ca15420b1fed9e0e/1000w/80q",
+            "acesso": "https://www.context.news/ai/opinion/addressing-ais-present-and-future-a-false-trichotomy"
+        },
+        {
+            "id": 3,
+            "titulo": "Addressing AI's present and future: a false trichotomy?",
+            "descricao": "In-fighting between AI camps is distracting from immediate safeguards needed now",
+            "imagem": "https://ddc514qh7t05d.cloudfront.net/dA/cfc7b447532850b73ce9cf3bfddabf62/1000w/80q",
+            "acesso": "https://www.context.news/ai/opinion/addressing-ais-present-and-future-a-false-trichotomy"
+        },
+        {
+            "id": 4,
+            "titulo": "US TikTok ban: Which other countries have banned the app?",
+            "descricao": "The United States could ban TikTok within a year, but it is not the first country to do so",
+            "imagem": "https://ddc514qh7t05d.cloudfront.net/dA/9a3cbc8daa64ff9aa519c01c007fd530/1000w/80q",
+            "acesso": "https://www.context.news/big-tech/us-tiktok-ban-which-other-countries-have-banned-the-app"
+        },
+        { 
+            "id": 5,
+            "titulo": "Bitcoin environmental battles heat up in US",
+            "descricao": "US investors pour billions of dollars into energy-intensive bitcoin, even as its environmental impact sparks national debate",
+            "imagem": "https://ddc514qh7t05d.cloudfront.net/dA/e9834ca51f221987fe8ee67c8070e2d3/1000w/80q",
+            "acesso": "https://www.context.news/digital-divides/bitcoin-environmental-battles-heat-up-in-us"
+        }
+    ]
+,
+   "pessoas": [
+
+        {
+            "id": 1,
+            "nome": "Pedro Montandon",
+            "link": "https://github.com/pedroMontandon",
+            "imagem": "https://avatars.githubusercontent.com/u/115580599?v=4"
+        },
+        {
+            "id": 2,
+            "nome": "Victor Gabriel",
+            "link": "https://github.com/Victorgabrielcruz",
+            "imagem": "https://avatars.githubusercontent.com/u/112908892?v=4"
+        },
+        {
+            "id": 3,
+            "nome": "Rafael de Paiva",
+            "link": "https://github.com/RafaelDePaiva",
+            "imagem": "https://avatars.githubusercontent.com/u/64436487?v=4"
+        },
+        {
+            "id": 4,
+            "nome": "Jonathan Sena",
+            "link": "https://github.com/Js3Silva",
+            "imagem": "https://avatars.githubusercontent.com/u/157543782?v=4"
+        },
+        {
+            "id": 5,
+            "nome": "Pedro Ferreira",
+            "link": "https://github.com/pedrodif",
+            "imagem": "https://avatars.githubusercontent.com/u/83607190?v=4"
+        }
+   ]
+}

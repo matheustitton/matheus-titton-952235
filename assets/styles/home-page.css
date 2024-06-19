@@ -55,7 +55,7 @@ body {
 }
 
 #people ul {
-    justify-content: center;
+    justify-content: space-evenly;
     display: flex;
     flex-wrap: wrap;
 }

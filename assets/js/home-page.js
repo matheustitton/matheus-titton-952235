@@ -32,10 +32,15 @@ async function preencherRepositorios() {
                 <div class="card-header">${repo.name}</div>
                 <div class="card-body">
                     <p class="card-text">${repo.description || "Sem descrição"}</p>
-                    <a href="${repo.html_url}" class="btn btn-primary">Ver repositório</a>
+                    <a href="repo.html?repo=matheustitton/${repo.name}" class="btn btn-primary">Ver repositório</a>
                 </div>
-                <div class="card-footer text-muted">
-                    ${repo.language || "Linguagem não especificada"}
+                <div class="card-footer text-muted d-flex flex-column justify-content-center">
+                    <div>${repo.language || "Linguagem não especificada"}</div>
+                    <div class="d-flex flex-row justify-content-center">
+                    <i class="fa-solid fa-person fa-lg mx-2 pt-2" style="color: #B197FC;"></i> <p>${repo.watchers_count}</p>
+                    <i class="fa-solid fa-medal fa-lg mx-2 pt-2" style="color: #B197FC;"></i> <p>${repo.watchers_count}</p>
+                    <i class="fa-solid fa-code-fork fa-lg mx-2 pt-2" style="color: #B197FC;"></i> <p>${repo.watchers_count}</p>
+                    </div> 
                 </div>
             `;
             repoCards.appendChild(card);

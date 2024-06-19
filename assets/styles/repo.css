@@ -1,0 +1,92 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: #550860;
+}
+
+.profile {
+    width: 200px;
+    height: 200px;
+    margin-right: auto;
+    border-radius: 50%;
+    border-color: #901482;
+    border-style: solid;
+}
+
+ul {
+    list-style: none;
+}
+
+footer {
+    border-style: solid;
+    border: 2px;
+    border-color: white;
+    background-color: purple;
+    color: white;
+    text-decoration: solid;
+}
+
+body {
+    background-color: #f1e4f4;
+}
+
+.navcss {
+    background-color: #901482;
+    color: white;
+}
+
+#repositorio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.repo-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.repo-details img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #901482;
+}
+
+.repo-details h3 {
+    color: #901482;
+}
+
+.repo-details p {
+    color: #550860;
+}
+
+.repo-details a {
+    color: #a22389;
+    text-decoration: none;
+}
+
+.repo-details a:hover {
+    text-decoration: underline;
+}
+
+.btn-outline-secondary {
+    margin: 5px;
+}
+
+@media (min-width: 573px) {
+    .repo-details {
+        flex-direction: row;
+    }
+
+    .repo-details img {
+        margin-right: 20px;
+    }
+}

@@ -138,7 +138,7 @@ function preencherConteudoESecaoPessoas() {
             }
             carouselItem.innerHTML = `
             <a class="text-decoration-none text-dark" href="${item.acesso}">
-                <img src="${item.imagem}" class="d-block w-100" alt="Slide ${index + 1}">
+                <img src="${item.imagem}" class="d-block w-100" style="max-height: 30rem;" alt="Slide ${index + 1}">
             </a>
             <div class="carousel-caption d-none d-md-block">
                 <a class="text-decoration-none text-dark" href="${item.acesso}">
